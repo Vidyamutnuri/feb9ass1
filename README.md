@@ -1,4 +1,4 @@
-# feb9ass1
+# feb9ass2
 assignment
 #taking input from the user
 num = int(input("Enter a number to check even/odd "))  
